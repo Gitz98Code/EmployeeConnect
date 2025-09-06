@@ -15,6 +15,7 @@
 
 - **RabbitMQ** → Message broker for asynchronous communication.  
 - **Zipkin Server** → Distributed tracing of microservices to monitor and debug requests.  
+- **Circuit Breakers** → Implemented using Resilience4j to handle service failures gracefully and prevent cascading failures.  
 - **Docker & Docker Compose** → Containerized deployment of services + RabbitMQ + Zipkin.  
 
 ## 🔗 Inter-Service Communication
@@ -34,6 +35,7 @@ Feign Clients make it simple to call REST APIs of other microservices without wr
 - API Gateway as a single entry point  
 - Asynchronous messaging with RabbitMQ  
 - Distributed tracing with Zipkin  
+- Circuit breakers with Resilience4j  
 - Dockerized services for easy deployment  
 
 ## 🎬 Demo
