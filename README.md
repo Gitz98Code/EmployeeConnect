@@ -14,7 +14,8 @@
 ## ⚙️ Infrastructure Components
 
 - **RabbitMQ** → Message broker for asynchronous communication.  
-- **Docker & Docker Compose** → Containerized deployment of services + RabbitMQ.  
+- **Zipkin Server** → Distributed tracing of microservices to monitor and debug requests.  
+- **Docker & Docker Compose** → Containerized deployment of services + RabbitMQ + Zipkin.  
 
 ## 🔗 Inter-Service Communication
 
@@ -32,6 +33,7 @@ Feign Clients make it simple to call REST APIs of other microservices without wr
 - Centralized configuration with Config Server  
 - API Gateway as a single entry point  
 - Asynchronous messaging with RabbitMQ  
+- Distributed tracing with Zipkin  
 - Dockerized services for easy deployment  
 
 ## 🎬 Demo
