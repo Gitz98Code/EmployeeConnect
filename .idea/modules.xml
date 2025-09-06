@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API-Gateway/API-Gateway.iml" filepath="$PROJECT_DIR$/API-Gateway/API-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conig-Server/Conig-Server.iml" filepath="$PROJECT_DIR$/Conig-Server/Conig-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Department-Service/Department-Service.iml" filepath="$PROJECT_DIR$/Department-Service/Department-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Employee-Connect.iml" filepath="$PROJECT_DIR$/.idea/Employee-Connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee-Service/Employee-Service.iml" filepath="$PROJECT_DIR$/Employee-Service/Employee-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Organization-Service/Organization-Service.iml" filepath="$PROJECT_DIR$/Organization-Service/Organization-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service-Registry/Service-Registry.iml" filepath="$PROJECT_DIR$/Service-Registry/Service-Registry.iml" />
+    </modules>
+  </component>
+</project>
